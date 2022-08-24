@@ -55,7 +55,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
       // Cleanup:
       deleteLocalFiles([filteredImage]);
 
-      // Return result:
+      
       if (err) {
         console.log("Error sending file: ", err);
         return res.status(500).send("Internal error");
