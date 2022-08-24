@@ -52,6 +52,6 @@ https://github.com/Anteneh2121/Udagram_Image_Filtering_Microservice
 
 ## a link to the endpoint URL for a running elastic beanstalk deployment:
 
-Udagram-Image-Filtering-Microservice-dev2.us-east-1.elasticbeanstalk.com
+http://udagram-image-filtering-microservice-dev2.us-east-1.elasticbeanstalk.com/
 
 http://udagram-image-filtering-microservice-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i.natgeofe.com/n/46b07b5e-1264-42e1-ae4b-8a021226e2d0/domestic-cat_thumb.jpg
